@@ -1,0 +1,35 @@
+The diff function was very unique because it allowed me (the user) to find the
+error really quickly.  All I had to do was use diff -u and then write my two
+file names to determine the differences between the two.  The output clearly
+laid out the differences between my code, which I can tell would be extremely
+useful in real instances.  In the future, I look forward to using version control
+, so I don't lose track of my progress and can easily check what errors I made
+between versions.
+
+When you have a complete history of your files, you are able to access all of
+the different versions to your code.  This means, if you run into a dead end for
+some reason, then you want to go back and look at your old code, this is possible
+through version control.  In this way, I can definitely see how version control
+could become extremely useful.
+
+The pros are knowing that your commit will save a change that will not be lost
+for a very long time (unless you choose to delete it).  The cons are that you
+might be committing too much or not enough, which is completely determined by
+you.  This means it is kind of unlikely to determine if you are committing too
+often (too little), unless someone tells you.  Automatic changes are sometimes
+preferred by coders because nothing has to be worried about (such as what is
+used in Google Docs).
+
+In Google Docs, you are mostly dealing with the same thing, and if you want to
+edit something different, then you would simply make a new Google Doc.  In Git,
+you are almost always dealing with different versions of the same file, so you
+want to track all the changes for all the files.  Otherwise, it would become
+difficult to see what had changed between them.
+
+Git log is used to view your history and git diff is used to find the differences
+between two specified commits.  Pretty intuitive.
+
+Knowing how to use version control properly means that you can take big steps
+and can still revert back to an old working program.
+
+I want to try using Git for my daily CS exercises.
