@@ -1,1 +1,5 @@
 At first, the repository will be empty, so you have to add commits to it.
+
+The staging area allows the user to work on the given file that they want to
+commit.  Not all files have to be committed at once, which allows the user
+the freedom to choose which files to commit and which ones not.
