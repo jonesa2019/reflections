@@ -1,0 +1,2 @@
+When you might be working with people around the world who are connected, but are not in the same area as you (but are working
+on the same project).  This is when it is nice to edit the same program all at once.
