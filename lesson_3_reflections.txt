@@ -12,3 +12,5 @@ on online repository to a local repository, or just from local-to-local reposito
 If you have the last known copy of the program, then you have control over which changes you want to make on it.  For example,
 if you had all the other changes from other collaborators on an online repository, such as Github, you have the liberty to
 choose which changes you want to implement into the main program and which ones you don't.
+
+Everything would be harder, nothing would be easier.
