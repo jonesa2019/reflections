@@ -3,3 +3,21 @@ At first, the repository will be empty, so you have to add commits to it.
 The staging area allows the user to work on the given file that they want to
 commit.  Not all files have to be committed at once, which allows the user
 the freedom to choose which files to commit and which ones not.
+
+The staging area can be used to monitor which files have been committed and
+which ones have not.
+
+Branches are useful when you are trying out a new method that may not work
+or may change some aspect of the game or presents a different version of what
+you have already made.  You want to put it on a branch if you believe that
+the main program should stay the same, but you still want to make a slightly
+different version.
+
+They make it look like a tree, which is good for visualization.
+
+Merging is so cool!  We can take two branches and then merge them based on
+one of their original versions.
+
+Manual merging takes forever, but if the merges are similar or there are conflicts
+for some reason (as determined by Git), then you have to manual merge the code
+anyway.  In general, Git streamlines the process significantly.

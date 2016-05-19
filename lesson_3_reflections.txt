@@ -1,2 +1,10 @@
 When you might be working with people around the world who are connected, but are not in the same area as you (but are working
 on the same project).  This is when it is nice to edit the same program all at once.
+
+Sometimes, there might be a change on Github that you do not want to pull.  The other collaborators may be taking the code
+in a direction that you do not want to go.  As a result, automatic pulling is not necessarily the best case in these
+scenarios.
+
+Forks are used you want to clone something on the Github server itself.  Branches are used when you are trying out experimental
+parts of the program and do not want to affect your main program.  Clones are used when you are transferring something from
+on online repository to a local repository, or just from local-to-local repositories.
