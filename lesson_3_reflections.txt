@@ -8,3 +8,7 @@ scenarios.
 Forks are used you want to clone something on the Github server itself.  Branches are used when you are trying out experimental
 parts of the program and do not want to affect your main program.  Clones are used when you are transferring something from
 on online repository to a local repository, or just from local-to-local repositories.
+
+If you have the last known copy of the program, then you have control over which changes you want to make on it.  For example,
+if you had all the other changes from other collaborators on an online repository, such as Github, you have the liberty to
+choose which changes you want to implement into the main program and which ones you don't.
